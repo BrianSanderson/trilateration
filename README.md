@@ -18,12 +18,12 @@ http://en.wikipedia.org/wiki/Geodetic_system#geodetic_to.2Ffrom_ECEF_coordinates
 
 ## Credits
 
-`Brian J. Sanderson
-PhD Candidate
-Dept. of Biology
-University of Virginia
-Charlottesville, VA 22903
-bjs8wk@virginia.edu`
+Brian J. Sanderson  
+PhD Candidate  
+Dept. of Biology  
+University of Virginia  
+Charlottesville, VA 22903  
+bjs8wk@virginia.edu  
 
 ## License
 
