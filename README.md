@@ -7,12 +7,10 @@ where the distances are reported in meters, and the GPS coordinates
 are in decimal degrees. See example file 'headless_mv_spatial.csv'
 
 Adapted from a comment on stackoverflow here:
-http://gis.stackexchange.com/questions/66/trilateration-using-3-latitude-an\
-d-longitude-points-and-3-distances/415#415
+http://gis.stackexchange.com/questions/66/trilateration-using-3-latitude-and-longitude-points-and-3-distances/415#415
 
 The wikipedia entry referenced in the comments is:
-http://en.wikipedia.org/wiki/Geodetic_system#geodetic_to.2Ffrom_ECEF_coordi\
-nates
+http://en.wikipedia.org/wiki/Geodetic_system#geodetic_to.2Ffrom_ECEF_coordinates
 
 ## Usage
 
@@ -20,11 +18,11 @@ nates
 
 ## Credits
 
-Brian J. Sanderson
-PhD Candidate
-Dept. of Biology
-University of Virginia
-Charlottesville, VA 22903
+Brian J. Sanderson \\
+PhD Candidate \\
+Dept. of Biology \\ 
+University of Virginia \\
+Charlottesville, VA 22903 \\
 bjs8wk@virginia.edu
 
 ## License
