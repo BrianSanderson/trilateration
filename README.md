@@ -1,7 +1,7 @@
 # Python trilateration
 
 A script used to impute GPS coordinates from relative distances in 
-my paper in [Ecology & Evolutionfrom 2016](https://dx.doi.org/10.1002%2Fece3.1958).
+my paper in [Ecology & Evolution from 2016](https://dx.doi.org/10.1002%2Fece3.1958).
 
 Trilateration of samples recorded as distances to each of three
 referenced GPS points. Input file format should be "name", "dist1",
@@ -19,15 +19,3 @@ http://en.wikipedia.org/wiki/Geodetic_system#geodetic_to.2Ffrom_ECEF_coordinates
 
 `python triat.py --input inputCsvFile.csv --output outputCsvFile`
 
-## Credits
-
-Brian J. Sanderson  
-PhD Candidate  
-Dept. of Biology  
-University of Virginia  
-Charlottesville, VA 22903  
-bjs8wk@virginia.edu  
-
-## License
-
-TODO: copy license
